@@ -1,0 +1,11 @@
+# macOS
+.DS_Store
+
+# Local-only working material — source masters, drafts, and reference images.
+# The site loads only the optimized WebP files in assets/.
+Inspo/
+design drafts/
+assets/*.png
+first design
+first design v2.png
+profil_bw.jpeg
